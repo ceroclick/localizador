@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ceroclick.com",
+  "Id": "e20d8486-75a4-49f2-be28-7b08e48bc878"
+}
